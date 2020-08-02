@@ -1,1 +1,1 @@
-# http://mac122311.github.io/About Us
+# http://mac122311.github.io/homepage
