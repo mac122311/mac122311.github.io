@@ -1,1 +1,1 @@
-# http://restaurant.github.io/menu
+# http://restaurant.github.io
