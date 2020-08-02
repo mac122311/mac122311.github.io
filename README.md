@@ -1,1 +1,1 @@
-# http://mac122311.github.io/Homepage
+# http://mac122311.github.io/homepage
