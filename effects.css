@@ -11,13 +11,13 @@
 
 /* HTML Styles */
 html {
-  background: url("images/Background_1.jpg") fixed;
+  background: url("Background_1.jpg") fixed;
 }
 
 
 /* Body Styles */
 body {
-  background-image: url("images/Background_3.jpg"), radial-gradient(circle closest-corner at 40% 80%, white 15%, rgba(151, 151, 151, 0.5) 50%),
+  background-image: url("Background_3.jpg"), radial-gradient(circle closest-corner at 40% 80%, white 15%, rgba(151, 151, 151, 0.5) 50%),
   radial-gradient(circle closest-corner at 80% 40%, white 15%, rgba(0, 0, 0, 0) 30%),
   radial-gradient(circle closest-side at 10% 20%, white 20%, rgba(0, 0, 0, 0) 45%),
   radial-gradient(5% 5% at 90% 10%, white 15%, rgba(0, 0, 0, 0) 40%);
@@ -26,7 +26,7 @@ body {
 
   box-shadow: rgb(31, 31, 31) 30px 0px 45px,
         rgb(31, 31, 31) -30px 0px 45px;
-  background-image: url('images/Background_3.jpg');
+  background-image: url('Background_3.jpg');
   background-repeat: repeat;
   background-attachment: float;		
   background-position: right-side;
